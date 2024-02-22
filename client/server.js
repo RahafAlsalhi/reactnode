@@ -14,7 +14,7 @@ app.get("/", (req, res) => {
 app.get("/getdata", (req, res) => {
  
   const data = {
-    name: "nazera",
+    name: "Rahaf",
     age: 22,
     field:"IT"
   };
